@@ -10,7 +10,8 @@ import tensorflow as tf
 from tensorflow.python.util import nest
 
 import reader
-from sgrnn.model import SyntheticGradientRNN
+#from sgrnn.model import SyntheticGradientRNN
+from model import SyntheticGradientRNN
 
 flags = tf.flags
 logging = tf.logging
