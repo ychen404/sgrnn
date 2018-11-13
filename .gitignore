@@ -1,3 +1,4 @@
 .idea
 dist
 sgrnn.egg-info
+simple-examples.*
